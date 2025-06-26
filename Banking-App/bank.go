@@ -34,7 +34,7 @@ func main() {
 				continue
 			}
 
-			accountBalance += depositAmount // accountBalance = accountBalance + depositAmount
+			accountBalance += depositAmount
 			fmt.Println("Balanca updated! New balance:", accountBalance)
 		case 3:
 			fmt.Print("Withdrawal amount:")
