@@ -1,3 +1,3 @@
-module practice.com/Banking-App
+module practice.com/BankingApp
 
 go 1.24.4
